@@ -18,12 +18,3 @@ function positions(arrayCompetidores){
         }
     }
   }
-
-console.log(`Teste um ["Rafael", "Manoel", "Daniel"]`)
-console.log(`Resultado = ${positions(["Rafael", "Manoel", "Daniel"])}`
-            
-console.log(`Teste dois ["Rafael", "Daniel", "Manoel"]`)
-console.log(`Resultado = ${positions(["Rafael", "Daniel", "Manoel"])}`
-            
-console.log(`Teste três ["Daniel", "Manoel", "Rafael"]`)
-console.log(`Resultado = ${positions(["Daniel", "Manoel", "Rafael"])}`
