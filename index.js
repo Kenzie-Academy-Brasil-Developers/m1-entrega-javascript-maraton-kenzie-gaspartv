@@ -20,3 +20,5 @@ function positions(arrayCompetidores){
         }
     }
   }
+
+console.log(positions(arrayCompetidores))
